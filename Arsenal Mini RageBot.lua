@@ -1,3 +1,6 @@
+-- // YOU DONT HAVE PERMISSION TO USE THIS IN A YT VIDEO UNLESS YOU DM puqvs#0001 ILL BEAT YOUR ASS IF YOU SHOWCASE IT WITHOUT MY PERMISSION \\ --
+-- // Love yourself! -- puqvs#0001 \\ --
+
 if game.PlaceId == 286090429 then
 
 local Config = {
