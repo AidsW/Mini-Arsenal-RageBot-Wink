@@ -1,3 +1,6 @@
+-- // YOU DONT HAVE PERMISSION TO USE THIS UNLESS YOU DM puqvs#0001 ASKING FOR PERMISSION \\ --
+-- // love youself <3 \\ --
+
 if game.PlaceId == 286090429 then
 
 local Config = {
